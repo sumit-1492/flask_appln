@@ -26,6 +26,7 @@ app.run(host = '0.0.0.0',port = 8000)
 ```
 doker run -d -p 8000:8000 sumit
 ```
+## app.run(host = '0.0.0.0',port = 8000) - 0.0.0.0 is local host
 ## doker run -d -p 8000:8000 sumit - d - detach, p - port , sumit - docker image name
 
 ### if you want to stop any docker container of any docker image
