@@ -1,6 +1,7 @@
 # flask_appln
+Implementation of simple flask application
 
-### Implementation of simple flask application
+### command using
 '''
 @app.route("/") 
 '''
