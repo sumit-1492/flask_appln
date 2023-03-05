@@ -2,9 +2,9 @@
 Implementation of simple flask application
 
 ### command using
-'''
+```
 @app.route("/") 
-'''
+```
 '''
 @app.route("/sumit") 
 '''
