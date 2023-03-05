@@ -1,0 +1,9 @@
+name: my-flask-app
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env:
+      PORT: 8080
+    command: python app.py
